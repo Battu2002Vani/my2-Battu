@@ -7,3 +7,7 @@ Paris nicknamed the **"City of light"** is the capital city of France, and the l
 1. Sightseeing.
 2. Sky diving.
 3. Scuba diving.
+#### Food 
+- macaron
+- onion soup
+- crocons
