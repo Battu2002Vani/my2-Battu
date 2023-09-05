@@ -12,4 +12,16 @@ Paris nicknamed the **"City of light"** is the capital city of France, and the l
 - onion soup
 - crocons
 
-[my link](https://github.com/Battu2002Vani/my2-Battu/blob/main/MyStats.md)
+[my link](https://github.com/Battu2002Vani/my2-Battu/blob/main/MyStats.md) 
+
+--- 
+##### Sports
+
+Sports are very crucial in day to day life. Below mentioned are the regular sports activities that are recommended.
+
+|Name|Reason|Hours|
+|----| -----|-----|    
+|cricket|mind|2 |
+|rugbee| Body | 1 |
+| chess| peace | 3 |
+
