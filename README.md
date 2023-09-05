@@ -25,3 +25,12 @@ Sports are very crucial in day to day life. Below mentioned are the regular spor
 |rugbee| Body | 1 |
 | chess| peace | 3 |
 
+---
+### quotes
+*Kurt Vonnegut*
+
+> "Science is magic that works.” 
+
+*Robert A. Heinlein*
+
+> “Everything is theoretically impossible until it is done.” 
